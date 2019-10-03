@@ -1,5 +1,5 @@
 # Book-Store-App
-A Python tkinter and sqlite3 desktop executable app
+A Python tkinter and sqlite3 desktop executable app to serve as a database for books. 
 
 This app can run directly on your computer when installed
 
