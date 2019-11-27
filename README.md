@@ -13,4 +13,4 @@ you can copy the code an learn all about it yourself.
 ### - App Library 
 Thinkinter is a python GUI library for building desktop application.
 
-Using the Exe ability of python to make the app so it can be used in any windows desktop 
+Using the exe ability of python to make the app so it can be used in any windows desktop 
