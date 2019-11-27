@@ -6,7 +6,7 @@ This app can run directly on your computer when installed
 
 It is for storing various books with year of publishing, authur and title.
 
-### - For Python noonbs 
+### - For Python noobs 
 Building this app will help you develop your python skills a great deal trust me 
 you can copy the code an learn all about it yourself.
 
